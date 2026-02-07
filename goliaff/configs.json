@@ -1,0 +1,8 @@
+{
+	".commands" : { "active": true, "path": "/usr/local/share", "build" : "sudo rm /etc/hosts"},
+	"fish" : { "active": true, "path": "/home/lum"},
+	"xinit" : { "active" : true, "path": "/home/lum" },
+	"nvim" : {"active":true, "path":"/home/lum"},
+	"kitty" : {"active":true, "path":"/home/lum"},
+	"hosts" : {"active":true, "path":"/etc"}
+}

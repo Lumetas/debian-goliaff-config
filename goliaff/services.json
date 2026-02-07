@@ -1,0 +1,9 @@
+{
+	"ssh": {
+		"debian": {
+			"name": "ssh",
+			"start": true,
+			"enable": true
+		}
+	}
+}

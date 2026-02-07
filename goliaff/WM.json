@@ -1,0 +1,7 @@
+{
+	"dwm": {
+		"active": true,
+		"build": "cd /home/lum/dwm && sudo make clean install",
+		"path": "/home/lum"
+	}
+}

@@ -1,0 +1,119 @@
+{
+	"ssh-server": {
+		"debian": {
+			"name": "openssh-server",
+			"installed": true
+		}
+	},
+	"nvim": {
+		"debian": {
+			"name": "neovim",
+			"installed": false 
+		}
+	},
+	"fish": {
+		"debian": {
+			"name": "fish",
+			"installed": true
+		}
+	},
+	"stow": {
+		"debian": {
+			"name": "stow",
+			"installed": true
+		}
+	},
+
+	"xserver": {
+		"debian": {
+			"name": "xserver-xorg",
+			"installed": true
+		}
+	},
+	"xinit": {
+		"debian": {
+			"name": "xinit",
+			"installed": true
+		}
+	},
+
+	"build-essential": {
+		"debian": {
+			"name": "build-essential",
+			"installed": true
+		}
+	},
+	"libx11-dev": {
+		"debian": {
+			"name": "libx11-dev",
+			"installed": true
+		}
+	},
+	"libxft-dev": {
+		"debian": {
+			"name": "libxft-dev",
+			"installed": true
+		}
+	},
+	"libxinerama-dev": {
+		"debian": {
+			"name": "libxinerama-dev",
+			"installed": true
+		}
+	},
+	"libfreetype-dev": {
+		"debian": {
+			"name": "libfreetype-dev",
+			"installed": true
+		}
+	},
+	"libfontconfig-dev": {
+		"debian": {
+			"name": "libfontconfig-dev",
+			"installed": true
+		}
+	},
+
+	"git": {
+		"debian": {
+			"name": "git",
+			"installed": true
+		}
+	},
+	"curl": {
+		"debian": {
+			"name": "curl",
+			"installed": true
+		}
+	},
+	"wget": {
+		"debian": {
+			"name": "wget",
+			"installed": true
+		}
+	},
+	"fzf": {
+		"debian": {
+			"name":"fzf",
+			"installed":true
+		}
+	},
+	"xsetroot": {
+		"debian" : {
+			"name":"x11-xserver-utils",
+			"installed":true
+		}
+	},
+	"kitty" : {
+		"debian": {
+			"name":"kitty",
+			"installed":true
+		}
+	},
+	"lsd": {
+		"debian": { "name":"lsd", "installed":true}
+	},
+	"fuse" : {
+		"debian":{"name":"fuse3","installed":true}
+	}
+}

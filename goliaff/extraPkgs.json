@@ -1,0 +1,12 @@
+{
+	"nvim/.config/nvim": "https://github.com/lumetas/nvim-cfg.git",
+	"dwm/dwm": "https://github.com/lumetas/dwm.git",
+	"nviminstaller/nvim": {
+		"type": "file",
+		"url": "https://github.com/neovim/neovim/releases/download/v0.11.6/nvim-linux-x86_64.appimage",
+		"build": [
+			"chmod 777 nviminstaller/nvim",
+			"sudo cp nviminstaller/nvim /bin/nvim"
+		]
+	}
+}

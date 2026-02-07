@@ -1,0 +1,23 @@
+{
+	"distros": {
+		"debian": "@include:/etc/goliaff/snippet/distro/debian"
+	},
+
+	"currentDistro": "debian",
+
+	"extraPkgs": "@include:goliaff/extraPkgs.json",
+
+	"dependencies": "@include:goliaff/pkgs.json",
+
+	"WM": "@include:goliaff/WM.json",
+
+	"users": "@include:goliaff/users.json",
+
+	"groups": "@include:goliaff/groups.json",
+
+	"services": "@include:goliaff/services.json",
+
+	"PKGS": "@include:goliaff/configs.json",
+
+	"system": "@include:goliaff/system.json"
+}

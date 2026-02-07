@@ -1,0 +1,32 @@
+[
+	{
+		"name": "lum",
+		"active": true,
+		"system": false
+	},
+	{
+		"name": "wheel",
+		"active": true,
+		"system": true
+	},
+	{
+		"name": "video",
+		"active": true,
+		"system": true
+	},
+	{
+		"name": "input",
+		"active": true,
+		"system": true
+	},
+	{
+		"name": "docker",
+		"active": true,
+		"system": false
+	},
+	{
+		"name": "sudo",
+		"active": true,
+		"system": true
+	}
+]

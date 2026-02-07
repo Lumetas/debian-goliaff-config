@@ -1,0 +1,16 @@
+[
+	{
+		"name": "lum",
+		"home": "/home/lum",
+		"shell": "/bin/fish",
+		"groups": [
+			"lum",
+			"sudo",
+			"wheel",
+			"video",
+			"input",
+			"docker"
+		],
+		"enabled": true
+	}
+]
