@@ -1,10 +1,5 @@
 [
 	{
-		"name": "lum",
-		"active": true,
-		"system": false
-	},
-	{
 		"name": "wheel",
 		"active": true,
 		"system": true
