@@ -115,5 +115,11 @@
 	},
 	"fuse" : {
 		"debian":{"name":"fuse3","installed":true}
+	},
+	"sudo" : {
+		"debian":{"name":"sudo","installed":true}
+	},
+	"python": {
+		"debian":{"name":"python3", "installed":true}
 	}
 }
